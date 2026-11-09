@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pranati 👋
+BS Data Science & Applications student at IIT Madras, focused on ML, statistics and trustworthy data.
 
-<!--
-**pransData12/pransData12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I build
+- **Data quality & validation** pipelines scored against ground truth
+- **Forecasting** for public-health risk (time-series ML, uncertainty)
+- **Document intelligence** for financial data (extraction, reconciliation, anomaly detection)
 
-Here are some ideas to get you started:
+## Featured projects
+| Project | What it does | Tech |
+|---|---|---|
+| [E-commerce Data Quality Pipeline](link) | Finds injected defects at 100% recall; revenue overstated 79% in raw data | Python, SQL, SciPy, scikit-learn |
+| [Dengue Risk Forecaster](link) | Monthly case forecasts with prediction intervals | pandas, scikit-learn, time-series CV |
+| [Bank Statement Reconciliation](link) | PDF to clean transactions, categories and anomaly flags | Python, pdfplumber, scikit-learn |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python · pandas · NumPy · scikit-learn · SQL · statistics (hypothesis testing, CV) · Git
+
+| Email:pranatiyadav12@gmail.com 
